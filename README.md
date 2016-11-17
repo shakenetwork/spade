@@ -1,5 +1,7 @@
 # spade
 
+### [!] Spade's development is discontinued because of its compatibility issue and its code inefficiency, a new framework will be released in the near future, make sure to check out the same module there.
+
 [![Python 2.6|2.7](https://img.shields.io/badge/Python-2.7.*-brightgreen.svg)](https://www.python.org/downloads/)
 [![Tested](https://img.shields.io/badge/Tested--on-Kali%20Linux-orange.svg)](https://www.kali.org/downloads/)
 [![License](https://img.shields.io/badge/License-GNU--GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
